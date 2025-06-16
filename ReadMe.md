@@ -1,6 +1,7 @@
 Event Guest List Manager
 
 Introduction
+
 This project is a simple, interactive Event Guest List Manager built using fundamental web technologies: HTML, CSS, and JavaScript. It allows users to dynamically add, remove, edit, and manage guests for an event directly in their browser without page reloads.
 
 Features
